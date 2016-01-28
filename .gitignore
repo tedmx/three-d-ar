@@ -1,0 +1,6 @@
+# Settling on removing of just a few folders
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
