@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ModelBehaviour.js">
+    <Files>
+      <File FileName="Assets\ModelBehaviour.js" Line="266" Column="50" />
+      <File FileName="Assets\Standard Assets\ObjImporter.cs" Line="1" Column="1" />
+      <File FileName="Assets\GeneralController.js" Line="18" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>verticeNormalPairs</Value>
+          <Value>triangleNormalPairs</Value>
+          <Value>finalTriangleArray</Value>
+          <Value>mesh</Value>
+          <Value>mesh.tangents = new Vector3)</Value>
+          <Value>basicVerticeCount</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

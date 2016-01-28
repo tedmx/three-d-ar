@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ModelBehaviour.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\UserDefinedTargetEventHandler.cs" Line="20" Column="71" />
+      <File FileName="Assets\GeneralController.js" Line="22" Column="2" />
+      <File FileName="Assets\PlaneScript.js" Line="15" Column="19" />
+      <File FileName="Assets\ModelBehaviour.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
